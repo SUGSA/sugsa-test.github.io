@@ -9014,3 +9014,21 @@ textarea.form-control {
   width: 75%;
   padding-bottom: 1em;
 }
+
+.box{ 
+	width:100px; 
+	height:100px; 
+} 
+ 
+.red{ 
+	background:#f00; 
+} 
+.green{ 
+	background:#0f0; 
+} 
+.blue{ 
+	background:#00f; 
+}
+.white{
+  background: white;
+}
